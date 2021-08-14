@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lance.ngck@gmail.com
+	name = Lance Ng
